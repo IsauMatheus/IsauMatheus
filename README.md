@@ -1,7 +1,7 @@
 - 👋 Eai, Eu sou @IsauMatheus
 - 👀 Estou interessado em  aprender mais e evoluir na progamação
-- 🌱 Estou aprendendo a progmar em html5 e css3 e javascript
-- 💞️ Estou procurndo colaborar com noavas ideias de sites,softwares,anúncios
+- 🌱 Estou aprendendo a progamar em html5 e css3 e javascript
+- 💞️ Estou procurndo colaborar com novas ideias de sites,softwares,anúncios etc
 - 📫 Como chegar ate  mim |instagram - isau_matheus| Gmail - isaumatheus123@gmail.com |
 
 <!---
